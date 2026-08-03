@@ -1,12 +1,11 @@
 # Ognjen Adzic
 
-I'm Ognjen, currently building [Invokeable](https://www.invokeable.com/). Previously [PennyOne](https://pennyone.app) and [Pingless](https://pingless.dev), building software around problems that usually get ignored until they start costing time.
+I'm Ognjen, building trust for software agents use. Previously [PennyOne](https://pennyone.app) and [Pingless](https://pingless.dev), building software around problems that usually get ignored until they start costing time.
 
 I started coding when I was 12. These days I care most about the jump from vague idea to shipped product: the part where taste, speed, and usefulness have to meet.
 
 ### Work
 
-- [Invokeable](https://www.invokeable.com/): testing whether AI agents can complete real product journeys safely
 - [PennyOne](https://pennyone.app): software for catching conversations, decisions, and commitments before they get lost
 - [Pingless](https://pingless.dev): web, SaaS, and AI product development
 - [Maritime@Penn](https://pennmaritime.club): building tomorrow's maritime leaders at Penn
