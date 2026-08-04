@@ -1,14 +1,13 @@
 # Ognjen Adzic
 
-I'm Ognjen, building trust for software agents use. Previously [PennyOne](https://pennyone.app) and [Pingless](https://pingless.dev), building software around problems that usually get ignored until they start costing time.
+I'm Ognjen, building trust for software agents use. Previously [Pingless](https://pingless.dev) and ArchiStella, building software around problems that usually get ignored until they start costing time.
 
 I started coding when I was 12. These days I care most about the jump from vague idea to shipped product: the part where taste, speed, and usefulness have to meet.
 
 ### Work
 
-- [PennyOne](https://pennyone.app): software for catching conversations, decisions, and commitments before they get lost
-- [Pingless](https://pingless.dev): web, SaaS, and AI product development
-- [Maritime@Penn](https://pennmaritime.club): building tomorrow's maritime leaders at Penn
+- [Pingless](https://pingless.dev): co-founder — web, SaaS, and AI product development
+- ArchiStella: co-founder — architecture-focused product experience spanning UI/UX and application development
 
 ### Projects
 
