@@ -16,4 +16,10 @@ I started coding when I was 12. These days I care most about the jump from vague
 - [Agent Workflow Benchmark](https://github.com/OgnjenAdzic28/agent-workflow-benchmark): evaluations for AI agents working across email, calendar, tasks, memory, and approvals
 - [FIFA Momentum Tracker](https://github.com/OgnjenAdzic28/fifa-momentum-tracker): computer vision that detects momentum shifts and suggests substitutions during matches
 
+### Writing
+
+Mostly AI, SWE, and whatever I'm learning at the time. Sometimes I get distracted and write about something else.
+
+[Read on Substack](https://ognjenadzic.substack.com)
+
 Contact: [LinkedIn](https://www.linkedin.com/in/ognjenadzic) · [X](https://x.com/OgnjenAdzic) · [Instagram](https://www.instagram.com/adzicognjen28) · [ognjenadzic.com](https://ognjenadzic.com)
