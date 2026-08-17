@@ -1,25 +1,28 @@
 # Ognjen Adzic
 
-I'm Ognjen, building trust for software agents use. Previously Pingless and ArchiStella, building software around problems that usually get ignored until they start costing time.
+I turn vague ideas into dependable software.
 
-I started coding when I was 12. These days I care most about the jump from vague idea to shipped product: the part where taste, speed, and usefulness have to meet.
+Right now, I'm building [Invokeable](https://invokeable.com) to make your software agent ready. It tests whether AI agents can use a product correctly and safely by running important customer journeys, verifying the resulting state and side effects, and turning failures into evidence-backed findings.
 
-### Work
+I'm also a core contributor to [gnt.ai](https://github.com/gnt-ai/gnt), where I help build governance infrastructure for AI agents with versioned policies, pull request approval, and runtime checks over MCP.
 
-- Pingless: co-founder — web, SaaS, and AI product development
-- ArchiStella: co-founder — a B2B marketplace where maritime companies order directly from vessel suppliers, distributors, and brand owners
+Before that, I co-founded Pingless and ArchiStella. They were different products, but the job was similar: find the annoying part people had accepted and make it work better.
 
-### Projects
+I started coding when I was 12. The part I enjoy has not changed: turning a vague idea into something useful, then removing everything that gets in the way.
 
-- [Autonomous Perception Lab](https://github.com/OgnjenAdzic28/autonomous-perception-lab): autonomous driving perception with KITTI, YOLO, LiDAR, and tracking
-- [Maritime Perception MVP](https://github.com/OgnjenAdzic28/maritime-perception-mvp): maritime segmentation, vessel detection, and multi-target tracking
-- [Agent Workflow Benchmark](https://github.com/OgnjenAdzic28/agent-workflow-benchmark): evaluations for AI agents working across email, calendar, tasks, memory, and approvals
-- [FIFA Momentum Tracker](https://github.com/OgnjenAdzic28/fifa-momentum-tracker): computer vision that detects momentum shifts and suggests substitutions during matches
+### Selected work
+
+- [Maritime Perception MVP](https://github.com/OgnjenAdzic28/maritime-perception-mvp): water, sky, and obstacle segmentation with vessel tracking and radar demos
+- [Autonomous Perception Lab](https://github.com/OgnjenAdzic28/autonomous-perception-lab): KITTI verification, YOLO detection, sparse LiDAR depth, tracking, and BEV replay
+- [Agent Workflow Benchmark](https://github.com/OgnjenAdzic28/agent-workflow-benchmark): a benchmark suite for agents working across email, calendar, tasks, memory, and approvals
+- [FIFA Momentum Tracker](https://github.com/OgnjenAdzic28/fifa-momentum-tracker): a computer vision system for detecting momentum shifts and substitution timing in FIFA
 
 ### Writing
 
-Mostly AI, SWE, and whatever I'm learning at the time. Sometimes I get distracted and write about something else.
+I write about problems that keep bothering me until I can explain them without hand-waving. Mostly AI, SWE, and whatever I'm learning at the time. Sometimes I get distracted and write about something else.
 
-[Read on Substack](https://ognjenadzic.substack.com)
+[Read on my site](https://ognjenadzic.com/writing) or [Substack](https://ognjenadzic.substack.com).
 
-Contact: [LinkedIn](https://www.linkedin.com/in/ognjenadzic) · [X](https://x.com/OgnjenAdzic) · [Instagram](https://www.instagram.com/adzicognjen28) · [ognjenadzic.com](https://ognjenadzic.com)
+### Elsewhere
+
+[ognjenadzic.com](https://ognjenadzic.com) · [X](https://x.com/OgnjenAdzic) · [LinkedIn](https://www.linkedin.com/in/ognjenadzic) · [Reddit](https://www.reddit.com/user/OgnjenAdzic/) · [Email](mailto:oginjo28@gmail.com)
