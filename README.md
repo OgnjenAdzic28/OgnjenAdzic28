@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ognjenadzic.com">
-    <img src="./assets/terminal.svg" width="100%" alt="Ognjen Adzic, coding since 12. Building Invokeable, shipping Doorman, core contributor to gnt.ai. Before that: ArchiStella, PennyOne and Pingless.">
+    <img src="./assets/terminal.svg" width="100%" alt="Ognjen Adzic, coding since 12. Building Invokeable, shipping Doorman and Hush, core contributor to gnt.ai. Before that: ArchiStella, PennyOne and Pingless.">
   </a>
 </p>
 
@@ -17,6 +17,7 @@
 
 - **[Invokeable](https://invokeable.com)**: runs real tasks through your product as an agent would, checks what actually changed, and shows you exactly where it broke.
 - **[Doorman](https://usedoorman.app)**: my agents kept throwing windows in front of me while I typed, so I made a Mac app that puts mine back.
+- **[Hush](https://github.com/OgnjenAdzic28/hush)**: the fastest computer use for AI agents. Drives any desktop app in the background, 178 ms per action.
 - **[gnt.ai](https://github.com/gnt-ai/gnt)**: core contributor. Governance for AI agents: versioned policies, PR approval, and runtime checks over MCP.
 
 ### `~/before`
